@@ -12,7 +12,6 @@ import com.atmecs.phptravelsautomation.testbase.TestBase;
 public class HomePageTestScript extends TestBase {
 	FindLocators loc = new FindLocators();
 	FindValidateData validatedata = new FindValidateData();
-
 	@Test(priority = 0)
 	public void landingPageValidation() {
 		HomePage.homePageVerification(driver, validatedata);
@@ -35,4 +34,5 @@ public class HomePageTestScript extends TestBase {
 		HomePage.homePageTest(loc, city, date);
 	}
 
+	
 }

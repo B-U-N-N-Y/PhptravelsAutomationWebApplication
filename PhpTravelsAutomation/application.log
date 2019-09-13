@@ -619,3 +619,74 @@
 2019-09-13 19:47:39,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2019-09-13 19:47:39,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2019-09-13 19:47:39,244 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 20:01:39,147  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 20:01:39,152  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 20:01:49,549  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 20:01:49,550  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 20:02:17,190 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 20:02:17,194 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 20:02:17,201 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 20:02:17,208 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 20:02:17,211 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 20:02:17,740 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 20:02:17,742 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 20:02:17,744 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 20:02:17,746 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 20:02:17,748 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 20:04:25,628  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 20:04:25,633  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 20:04:35,351  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 20:04:35,351  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 20:05:46,728  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 20:05:46,733  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 20:07:55,077  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 20:07:55,082  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 20:08:02,653  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 20:08:02,654  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 20:09:07,306 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 20:09:07,318 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 20:09:07,322 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 20:09:07,325 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 20:09:07,336 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 20:09:08,697 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 20:09:08,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 20:09:08,712 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 20:09:08,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 20:09:08,724 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 20:09:50,950  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 20:09:50,955  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 20:10:39,284 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 20:10:39,299 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 20:10:39,313 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 20:10:39,317 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 20:10:39,318 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 20:10:40,764 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 20:10:40,765 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 20:10:40,768 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 20:10:40,769 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 20:10:40,771 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 20:12:33,130  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 20:12:33,138  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 20:12:41,589  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 20:12:41,589  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 20:12:44,446  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 20:12:44,447  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 20:12:59,205  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 20:12:59,205  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 20:13:08,496  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 20:13:08,496  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 20:13:09,309  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 20:13:09,310  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 20:13:12,403  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 20:13:12,403  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 20:13:19,399  INFO [main] LogReport:32 - Invoice validate Successfully
+2019-09-13 20:13:20,010 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 20:13:20,010 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 20:13:20,010 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 20:13:20,026 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 20:13:20,042 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 20:13:20,473 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 20:13:20,473 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 20:13:20,473 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 20:13:20,473 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 20:13:20,473 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

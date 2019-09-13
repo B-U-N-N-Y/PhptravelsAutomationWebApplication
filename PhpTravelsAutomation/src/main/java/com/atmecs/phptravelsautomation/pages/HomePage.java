@@ -40,7 +40,7 @@ public class HomePage {
  * @param validatedata
  */
 	public static void cityInputValidation(FindLocators loc, FindValidateData validatedata) {
-		CommonUtility.clickElement(loc.getlocator("loc.backtohomapage.btn"));
+		//CommonUtility.clickElement(loc.getlocator("loc.backtohomapage.btn"));
 		CommonUtility.clickElement(loc.getlocator("loc.tours.btn"));
 		CommonUtility.clickElement(loc.getlocator("loc.city.btn"));
 		CommonUtility.clickAndSendText(loc.getlocator("loc.cityinput.btn"), 30, validatedata.getData("homepage.city_validate_input_data"));

@@ -8,7 +8,7 @@
     <classes>
       <class name="com.atmecs.phptravels.testscripts.HomePageTestScript">
         <methods>
-          <include name="invalidCheckinDate"/>
+          <include name="tourSearch" invocation-numbers="0"/>
           <include name="intitailizeBrowser"/>
         </methods>
       </class> <!-- com.atmecs.phptravels.testscripts.HomePageTestScript -->
