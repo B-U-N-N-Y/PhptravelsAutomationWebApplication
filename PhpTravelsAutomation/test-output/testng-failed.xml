@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.atmecs.phptravels.testscripts.Testing">
+      <class name="com.atmecs.phptravels.testscripts.HomePageTestScript">
         <methods>
-          <include name="test"/>
+          <include name="invalidCheckinDate"/>
           <include name="intitailizeBrowser"/>
         </methods>
-      </class> <!-- com.atmecs.phptravels.testscripts.Testing -->
+      </class> <!-- com.atmecs.phptravels.testscripts.HomePageTestScript -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

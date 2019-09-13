@@ -1,0 +1,621 @@
+2019-09-12 14:35:10,421  INFO [main] LogReport:27 - city input validationstart
+2019-09-12 14:35:11,197  INFO [main] LogReport:27 - home page flow start
+2019-09-12 14:41:20,509  INFO [main] LogReport:27 - city input validationstart
+2019-09-12 14:41:21,368  INFO [main] LogReport:27 - home page flow start
+2019-09-12 14:50:19,742  INFO [main] LogReport:27 - city input validationstart
+2019-09-12 14:56:24,899  INFO [main] LogReport:27 - city input validationstart
+2019-09-12 15:00:32,429  INFO [main] LogReport:27 - city input validationstart
+2019-09-12 15:00:33,500  INFO [main] LogReport:27 - home page flow start
+2019-09-12 15:09:22,816  INFO [main] LogReport:27 - city input validationstart
+2019-09-12 15:09:23,648  INFO [main] LogReport:27 - home page flow start
+2019-09-12 15:40:00,437  INFO [main] LogReport:27 - city input validationstart
+2019-09-12 15:42:50,535  INFO [main] LogReport:27 - city input validationstart
+2019-09-12 15:42:51,270  INFO [main] LogReport:27 - home page flow start
+2019-09-12 23:20:38,116  INFO [main] LogReport:27 - city input validationstart
+2019-09-12 23:20:38,986  INFO [main] LogReport:27 - home page flow start
+2019-09-12 23:21:25,718  INFO [main] LogReport:27 - city input validationstart
+2019-09-12 23:21:26,584  INFO [main] LogReport:27 - home page flow start
+2019-09-12 23:22:22,071  INFO [main] LogReport:27 - city input validationstart
+2019-09-12 23:22:23,164  INFO [main] LogReport:27 - home page flow start
+2019-09-12 23:23:37,182  INFO [main] LogReport:27 - city input validationstart
+2019-09-12 23:23:38,299  INFO [main] LogReport:27 - home page flow start
+2019-09-13 00:00:31,161  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 00:00:32,298  INFO [main] LogReport:27 - home page flow start
+2019-09-13 00:02:53,880  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 00:02:54,969  INFO [main] LogReport:27 - home page flow start
+2019-09-13 00:08:07,120  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 00:08:08,281  INFO [main] LogReport:27 - home page flow start
+2019-09-13 00:10:32,642  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 00:10:33,758  INFO [main] LogReport:27 - home page flow start
+2019-09-13 00:18:19,410  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 00:18:20,534  INFO [main] LogReport:27 - home page flow start
+2019-09-13 00:25:04,855  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 00:25:06,057  INFO [main] LogReport:27 - home page flow start
+2019-09-13 00:38:11,167  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 00:38:11,911  INFO [main] LogReport:27 - home page flow start
+2019-09-13 00:39:59,119  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 00:39:59,907  INFO [main] LogReport:27 - home page flow start
+2019-09-13 00:41:23,389  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 00:41:24,251  INFO [main] LogReport:27 - home page flow start
+2019-09-13 00:42:33,725  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 00:42:34,544  INFO [main] LogReport:27 - home page flow start
+2019-09-13 00:44:43,129  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 00:44:43,918  INFO [main] LogReport:27 - home page flow start
+2019-09-13 02:49:30,742  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 02:49:31,523  INFO [main] LogReport:27 - home page flow start
+2019-09-13 03:02:56,832  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 03:02:57,659  INFO [main] LogReport:27 - home page flow start
+2019-09-13 03:06:13,688  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 03:06:14,420  INFO [main] LogReport:27 - home page flow start
+2019-09-13 03:38:33,047  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 03:38:34,053  INFO [main] LogReport:27 - home page flow start
+2019-09-13 03:41:54,341  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 03:41:55,136  INFO [main] LogReport:27 - home page flow start
+2019-09-13 04:04:16,736  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 04:04:17,534  INFO [main] LogReport:27 - home page flow start
+2019-09-13 04:07:13,796  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 04:07:14,546  INFO [main] LogReport:27 - home page flow start
+2019-09-13 04:09:03,558  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 04:09:04,275  INFO [main] LogReport:27 - home page flow start
+2019-09-13 04:30:27,281  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 04:30:28,063  INFO [main] LogReport:27 - home page flow start
+2019-09-13 04:34:36,385  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 04:34:37,454  INFO [main] LogReport:27 - home page flow start
+2019-09-13 04:54:47,817  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 04:54:48,894  INFO [main] LogReport:27 - home page flow start
+2019-09-13 04:57:35,297  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 04:57:36,427  INFO [main] LogReport:27 - home page flow start
+2019-09-13 04:58:55,190  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 04:58:56,120  INFO [main] LogReport:27 - home page flow start
+2019-09-13 05:04:42,169  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:04:43,234  INFO [main] LogReport:27 - home page flow start
+2019-09-13 05:07:55,380  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:07:56,518  INFO [main] LogReport:27 - home page flow start
+2019-09-13 05:09:43,193  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:09:44,062  INFO [main] LogReport:27 - home page flow start
+2019-09-13 05:13:13,786  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:13:15,672  INFO [main] LogReport:27 - home page flow start
+2019-09-13 05:16:26,350  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:16:27,453  INFO [main] LogReport:27 - home page flow start
+2019-09-13 05:19:01,920  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:19:03,086  INFO [main] LogReport:27 - home page flow start
+2019-09-13 05:20:59,073  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:21:00,285  INFO [main] LogReport:27 - home page flow start
+2019-09-13 05:22:30,005  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:22:30,914  INFO [main] LogReport:27 - home page flow start
+2019-09-13 05:34:43,299  INFO [main] LogReport:27 - check in date validation
+2019-09-13 05:34:48,990  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:36:17,976  INFO [main] LogReport:27 - check in date validation
+2019-09-13 05:36:25,393  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:36:26,328  INFO [main] LogReport:27 - home page flow start
+2019-09-13 05:52:26,858  INFO [main] LogReport:27 - check in date validation
+2019-09-13 05:52:32,560  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:52:33,413  INFO [main] LogReport:27 - home page flow start
+2019-09-13 05:55:34,573  INFO [main] LogReport:27 - check in date validation
+2019-09-13 05:55:41,975  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:55:42,970  INFO [main] LogReport:27 - home page flow start
+2019-09-13 05:58:22,424  INFO [main] LogReport:27 - check in date validation
+2019-09-13 05:58:28,779  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 05:58:29,616  INFO [main] LogReport:27 - home page flow start
+2019-09-13 06:01:47,228  INFO [main] LogReport:27 - check in date validation
+2019-09-13 06:01:52,787  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 06:01:53,819  INFO [main] LogReport:27 - home page flow start
+2019-09-13 11:40:05,235  INFO [main] LogReport:27 - check in date validation
+2019-09-13 11:40:10,828  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 11:40:11,673  INFO [main] LogReport:27 - home page flow start
+2019-09-13 11:45:14,400  INFO [main] LogReport:27 - check in date validation
+2019-09-13 11:45:19,167  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 11:45:20,134  INFO [main] LogReport:27 - home page flow start
+2019-09-13 11:46:56,154  INFO [main] LogReport:27 - check in date validation
+2019-09-13 11:47:01,081  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 11:47:01,992  INFO [main] LogReport:27 - home page flow start
+2019-09-13 12:32:31,947  INFO [main] LogReport:27 - check in date validation
+2019-09-13 12:32:37,270  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 12:32:38,251  INFO [main] LogReport:27 - home page flow start
+2019-09-13 12:36:03,335  INFO [main] LogReport:27 - check in date validation
+2019-09-13 12:36:08,407  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 12:36:09,231  INFO [main] LogReport:27 - home page flow start
+2019-09-13 12:38:42,290  INFO [main] LogReport:27 - check in date validation
+2019-09-13 12:38:47,312  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 12:38:48,296  INFO [main] LogReport:27 - home page flow start
+2019-09-13 12:41:04,955  INFO [main] LogReport:27 - check in date validation
+2019-09-13 12:41:09,699  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 12:41:10,516  INFO [main] LogReport:27 - home page flow start
+2019-09-13 12:43:37,538  INFO [main] LogReport:27 - check in date validation
+2019-09-13 12:43:42,260  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 12:43:43,116  INFO [main] LogReport:27 - home page flow start
+2019-09-13 12:44:42,685  INFO [main] LogReport:27 - check in date validation
+2019-09-13 12:44:47,880  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 12:44:48,798  INFO [main] LogReport:27 - home page flow start
+2019-09-13 12:47:45,940  INFO [main] LogReport:27 - check in date validation
+2019-09-13 12:47:50,392  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 12:47:51,242  INFO [main] LogReport:27 - home page flow start
+2019-09-13 12:54:01,889  INFO [main] LogReport:27 - check in date validation
+2019-09-13 12:54:07,596  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 12:54:08,474  INFO [main] LogReport:27 - home page flow start
+2019-09-13 12:56:54,737  INFO [main] LogReport:27 - check in date validation
+2019-09-13 12:56:59,558  INFO [main] LogReport:27 - city input validationstart
+2019-09-13 12:57:00,481  INFO [main] LogReport:27 - home page flow start
+2019-09-13 14:22:28,495  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 14:22:28,500  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 14:22:31,398  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 14:22:31,399  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 14:22:44,108  INFO [main] LogReport:27 - Pass
+2019-09-13 14:22:52,856  INFO [main] LogReport:27 - after adding extras total amount is validate correctly
+2019-09-13 14:22:53,521  INFO [main] LogReport:27 - Tour name is validate correctly
+2019-09-13 14:22:53,625  INFO [main] LogReport:27 - Before adding extras total amount is validate correctly
+2019-09-13 14:45:18,115  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 14:45:18,122  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 14:45:21,056  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 14:45:21,056  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 14:45:34,352  INFO [main] LogReport:27 - The total amount in booking option page: USD $300
+2019-09-13 14:45:34,352  INFO [main] LogReport:27 - The total amount is validate succesfully
+2019-09-13 14:45:44,223  INFO [main] LogReport:27 - Total amount after adding extra: 1628
+2019-09-13 14:45:44,224  INFO [main] LogReport:27 - After adding extras total amount is validate Successfully
+2019-09-13 14:45:44,970  INFO [main] LogReport:27 - Tour name is: Old and New Delhi City Tour
+2019-09-13 14:45:44,971  INFO [main] LogReport:27 - Tour name is validate Successfully
+2019-09-13 14:45:45,073  INFO [main] LogReport:27 - Total amount before adding extra: 330
+2019-09-13 14:45:45,074  INFO [main] LogReport:27 - Before adding extras total amount is validate Successfully
+2019-09-13 15:26:02,232  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 15:26:02,239  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 15:26:05,250  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 15:26:05,251  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 15:26:18,259  INFO [main] LogReport:27 - The total amount in booking option page: USD $300
+2019-09-13 15:26:18,260  INFO [main] LogReport:27 - The total amount is validate succesfully
+2019-09-13 15:26:28,755  INFO [main] LogReport:27 - Total amount after adding extra: 1628
+2019-09-13 15:26:28,756  INFO [main] LogReport:27 - After adding extras total amount is validate Successfully
+2019-09-13 15:26:29,484  INFO [main] LogReport:27 - Tour name is: Old and New Delhi City Tour
+2019-09-13 15:26:29,485  INFO [main] LogReport:27 - Tour name is validate Successfully
+2019-09-13 15:26:29,575  INFO [main] LogReport:27 - Total amount before adding extra: 330
+2019-09-13 15:26:29,575  INFO [main] LogReport:27 - Before adding extras total amount is validate Successfully
+2019-09-13 15:43:05,214  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 15:43:05,219  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 15:45:20,475  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 15:45:20,480  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 15:47:41,151  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 15:47:41,154  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 15:53:27,709  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 15:53:27,715  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 15:54:12,039  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 15:54:12,045  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 15:54:15,196  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 15:54:15,196  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 15:54:28,702  INFO [main] LogReport:27 - The total amount in booking option page: USD $300
+2019-09-13 15:54:28,702  INFO [main] LogReport:27 - The total amount is validate succesfully
+2019-09-13 15:54:40,531  INFO [main] LogReport:27 - Total amount after adding extra: 1628
+2019-09-13 15:54:40,532  INFO [main] LogReport:27 - After adding extras total amount is validate Successfully
+2019-09-13 15:54:41,120  INFO [main] LogReport:27 - Tour name is: Old and New Delhi City Tour
+2019-09-13 15:54:41,121  INFO [main] LogReport:27 - Tour name is validate Successfully
+2019-09-13 15:56:52,496  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 15:56:52,501  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 15:56:55,803  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 15:56:55,803  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 15:57:09,443  INFO [main] LogReport:27 - The total amount in booking option page: USD $300
+2019-09-13 15:57:09,443  INFO [main] LogReport:27 - The total amount is validate succesfully
+2019-09-13 15:57:19,905  INFO [main] LogReport:27 - Total amount after adding extra: 1628
+2019-09-13 15:57:19,905  INFO [main] LogReport:27 - After adding extras total amount is validate Successfully
+2019-09-13 15:57:20,647  INFO [main] LogReport:27 - Tour name is: Old and New Delhi City Tour
+2019-09-13 15:57:20,647  INFO [main] LogReport:27 - Tour name is validate Successfully
+2019-09-13 16:00:53,692  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 16:00:53,697  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 16:00:56,876  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 16:00:56,877  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 16:01:11,239  INFO [main] LogReport:27 - The total amount in booking option page: USD $300
+2019-09-13 16:01:11,240  INFO [main] LogReport:27 - The total amount is validate succesfully
+2019-09-13 16:01:22,307  INFO [main] LogReport:27 - Total amount after adding extra: 1628
+2019-09-13 16:01:22,307  INFO [main] LogReport:27 - After adding extras total amount is validate Successfully
+2019-09-13 16:01:23,061  INFO [main] LogReport:27 - Tour name is: Old and New Delhi City Tour
+2019-09-13 16:01:23,062  INFO [main] LogReport:27 - Tour name is validate Successfully
+2019-09-13 16:01:26,121  INFO [main] LogReport:27 - Total amount before adding extra: 330
+2019-09-13 16:01:26,122  INFO [main] LogReport:27 - Before adding extras total amount is validate Successfully
+2019-09-13 16:02:58,715  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 16:02:58,721  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 16:03:01,823  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 16:03:01,823  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 16:03:15,703  INFO [main] LogReport:27 - The total amount in booking option page: USD $300
+2019-09-13 16:03:15,704  INFO [main] LogReport:27 - The total amount is validate succesfully
+2019-09-13 16:03:30,960  INFO [main] LogReport:27 - Total amount after adding extra: 1628
+2019-09-13 16:03:30,960  INFO [main] LogReport:27 - After adding extras total amount is validate Successfully
+2019-09-13 16:03:31,730  INFO [main] LogReport:27 - Tour name is: Old and New Delhi City Tour
+2019-09-13 16:03:31,730  INFO [main] LogReport:27 - Tour name is validate Successfully
+2019-09-13 16:03:34,798  INFO [main] LogReport:27 - Total amount before adding extra: 330
+2019-09-13 16:03:34,798  INFO [main] LogReport:27 - Before adding extras total amount is validate Successfully
+2019-09-13 16:04:49,412  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 16:04:49,418  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 16:04:52,587  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 16:04:52,588  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 16:05:06,300  INFO [main] LogReport:27 - The total amount in booking option page: USD $300
+2019-09-13 16:05:06,301  INFO [main] LogReport:27 - The total amount is validate succesfully
+2019-09-13 16:05:17,280  INFO [main] LogReport:27 - Total amount after adding extra: 1628
+2019-09-13 16:05:17,281  INFO [main] LogReport:27 - After adding extras total amount is validate Successfully
+2019-09-13 16:05:18,068  INFO [main] LogReport:27 - Tour name is: Old and New Delhi City Tour
+2019-09-13 16:05:18,069  INFO [main] LogReport:27 - Tour name is validate Successfully
+2019-09-13 16:05:21,122  INFO [main] LogReport:27 - Total amount before adding extra: 330
+2019-09-13 16:05:21,123  INFO [main] LogReport:27 - Before adding extras total amount is validate Successfully
+2019-09-13 16:07:17,719  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 16:07:17,724  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 16:07:21,192  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 16:07:21,192  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 16:07:35,992  INFO [main] LogReport:27 - The total amount in booking option page: USD $300
+2019-09-13 16:07:35,993  INFO [main] LogReport:27 - The total amount is validate succesfully
+2019-09-13 16:07:47,667  INFO [main] LogReport:27 - Total amount after adding extra: 1628
+2019-09-13 16:07:47,668  INFO [main] LogReport:27 - After adding extras total amount is validate Successfully
+2019-09-13 16:07:48,543  INFO [main] LogReport:27 - Tour name is: Old and New Delhi City Tour
+2019-09-13 16:07:48,544  INFO [main] LogReport:27 - Tour name is validate Successfully
+2019-09-13 16:07:51,643  INFO [main] LogReport:27 - Total amount before adding extra: 330
+2019-09-13 16:07:51,644  INFO [main] LogReport:27 - Before adding extras total amount is validate Successfully
+2019-09-13 16:10:23,192  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 16:10:23,199  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 16:10:26,321  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 16:10:26,321  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 16:10:40,530  INFO [main] LogReport:27 - The total amount in booking option page: USD $300
+2019-09-13 16:10:40,531  INFO [main] LogReport:27 - The total amount is validate succesfully
+2019-09-13 16:10:51,520  INFO [main] LogReport:27 - Total amount after adding extra: 1628
+2019-09-13 16:10:51,521  INFO [main] LogReport:27 - After adding extras total amount is validate Successfully
+2019-09-13 16:10:52,384  INFO [main] LogReport:27 - Tour name is: Old and New Delhi City Tour
+2019-09-13 16:10:52,385  INFO [main] LogReport:27 - Tour name is validate Successfully
+2019-09-13 16:10:55,475  INFO [main] LogReport:27 - Total amount before adding extra: 330
+2019-09-13 16:10:55,475  INFO [main] LogReport:27 - Before adding extras total amount is validate Successfully
+2019-09-13 16:11:07,844  INFO [main] LogReport:27 - Invoice validate Successfully
+2019-09-13 16:33:37,574  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 16:33:37,580  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 16:36:06,339  INFO [main] LogReport:27 - Next page title: Search Results
+2019-09-13 16:36:06,344  INFO [main] LogReport:27 - Checkin date not working properly
+2019-09-13 16:36:09,731  INFO [main] LogReport:27 - city validate data=No matches found
+2019-09-13 16:36:09,732  INFO [main] LogReport:27 - city input validation passed
+2019-09-13 16:36:23,663  INFO [main] LogReport:27 - The total amount in booking option page: USD $300
+2019-09-13 16:36:23,664  INFO [main] LogReport:27 - The total amount is validate succesfully
+2019-09-13 16:36:33,953  INFO [main] LogReport:27 - Total amount after adding extra: 1628
+2019-09-13 16:36:33,954  INFO [main] LogReport:27 - After adding extras total amount is validate Successfully
+2019-09-13 16:36:34,889  INFO [main] LogReport:27 - Tour name is: Old and New Delhi City Tour
+2019-09-13 16:36:34,890  INFO [main] LogReport:27 - Tour name is validate Successfully
+2019-09-13 16:36:37,943  INFO [main] LogReport:27 - Total amount before adding extra: 330
+2019-09-13 16:36:37,943  INFO [main] LogReport:27 - Before adding extras total amount is validate Successfully
+2019-09-13 16:36:50,384  INFO [main] LogReport:27 - Invoice validate Successfully
+2019-09-13 17:11:28,833  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 17:11:28,838  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 17:11:32,177  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 17:11:32,177  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 17:13:40,142  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 17:13:40,149  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 17:13:43,553  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 17:13:43,554  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 17:13:59,018  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 17:13:59,019  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 17:14:06,843  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 17:14:06,844  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 17:14:08,144  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 17:14:08,145  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 17:14:11,194  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 17:14:11,195  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 17:16:36,678  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 17:16:36,681  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 17:17:10,620  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 17:17:10,621  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 17:17:19,101  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 17:17:19,102  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 17:19:51,117  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 17:19:51,122  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 17:19:54,547  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 17:19:54,547  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 17:20:10,022  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 17:20:10,023  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 17:20:20,631  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 17:20:20,631  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 17:20:21,522  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 17:20:21,523  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 17:20:24,578  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 17:20:24,579  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 17:22:42,359  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 17:22:42,366  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 17:22:45,527  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 17:22:45,528  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 17:23:58,437  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 17:23:58,443  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 17:24:01,697  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 17:24:01,698  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 17:24:17,824  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 17:24:17,825  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 17:24:27,372  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 17:24:27,373  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 17:24:28,060  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 17:24:28,061  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 17:24:31,142  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 17:24:31,142  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 17:26:06,797  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 17:26:06,802  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 17:26:09,991  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 17:26:09,992  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 17:26:25,694  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 17:26:25,695  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 17:26:35,133  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 17:26:35,133  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 17:26:35,853  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 17:26:35,854  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 17:26:38,921  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 17:26:38,922  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 17:28:33,606  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 17:28:33,610  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 17:28:36,825  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 17:28:36,825  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 17:28:53,795  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 17:28:53,795  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 17:29:03,334  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 17:29:03,334  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 17:29:04,166  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 17:29:04,166  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 17:29:07,219  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 17:29:07,219  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 17:32:44,646  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 17:32:44,654  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 17:32:49,991  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 17:32:49,995  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 17:33:06,893  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 17:33:06,893  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 17:33:16,057  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 17:33:16,057  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 17:34:32,413  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 17:34:32,421  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 17:34:35,583  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 17:34:35,583  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 17:34:50,725  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 17:34:50,725  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 17:35:03,325  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 17:35:03,325  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 17:35:04,171  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 17:35:04,175  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 17:35:07,352  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 17:35:07,356  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 17:35:18,610  INFO [main] LogReport:32 - Invoice validate Successfully
+2019-09-13 17:54:47,741  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 17:54:47,745  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 17:54:50,916  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 17:54:50,916  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 17:55:06,152  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 17:55:06,152  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 17:55:15,728  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 17:55:15,728  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 17:55:16,484  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 17:55:16,484  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 17:55:19,579  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 17:55:19,579  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 17:55:30,224  INFO [main] LogReport:32 - Invoice validate Successfully
+2019-09-13 18:13:42,738  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 18:13:42,742  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 18:13:45,886  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 18:13:45,890  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 18:14:01,756  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 18:14:01,756  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 18:14:12,074  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 18:14:12,078  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 18:14:13,024  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 18:14:13,024  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 18:14:16,100  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 18:14:16,100  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 18:14:27,317  INFO [main] LogReport:32 - Invoice validate Successfully
+2019-09-13 18:14:28,194 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 18:14:28,202 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 18:14:28,206 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 18:14:28,214 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 18:14:28,218 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 18:14:29,109 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 18:14:29,109 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 18:14:29,109 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 18:14:29,109 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 18:14:29,126 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 18:17:29,391  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 18:17:29,395  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 18:17:32,446  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 18:17:32,446  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 18:17:46,552  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 18:17:46,552  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 18:17:56,215  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 18:17:56,215  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 18:17:56,968  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 18:17:56,972  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 18:18:00,077  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 18:18:00,077  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 18:18:11,369  INFO [main] LogReport:32 - Invoice validate Successfully
+2019-09-13 18:18:11,846 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 18:18:11,850 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 18:18:11,854 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 18:18:11,858 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 18:18:11,858 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 18:18:12,618 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 18:18:12,622 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 18:18:12,626 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 18:18:12,626 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 18:18:12,630 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 18:30:22,131  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 18:30:22,151  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 18:30:57,876  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 18:30:57,876  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 18:30:58,833 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 18:30:58,837 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 18:30:58,841 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 18:30:58,841 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 18:30:58,845 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 18:30:59,466 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 18:30:59,466 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 18:30:59,466 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 18:30:59,466 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 18:30:59,466 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 18:34:07,828  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 18:34:07,832  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 18:34:10,765  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 18:34:10,769  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 18:35:15,226 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 18:35:15,226 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 18:35:15,242 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 18:35:15,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 18:35:15,257 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 18:35:15,945 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 18:35:15,945 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 18:35:15,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 18:35:15,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 18:35:15,949 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 18:56:37,072  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 18:56:37,080  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 18:56:40,346  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 18:56:40,350  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 18:56:55,690  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 18:56:55,694  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 18:57:05,537  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 18:57:05,541  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 18:57:07,340  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 18:57:07,340  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 18:57:10,446  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 18:57:10,446  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 18:57:21,157 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 18:57:21,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 18:57:21,165 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 18:57:21,171 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 18:57:21,175 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 18:57:21,710 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 18:57:21,714 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 18:57:21,714 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 18:57:21,726 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 18:57:21,726 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:00:12,850  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 19:00:12,854  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 19:00:38,475  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 19:00:38,475  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 19:00:46,252  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 19:00:46,252  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 19:01:02,945  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 19:01:02,949  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 19:01:06,040  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 19:01:06,040  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 19:01:18,242 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:01:18,253 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:01:18,259 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:01:18,262 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:01:18,265 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:01:19,086 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:01:19,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:01:19,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:01:19,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:01:19,090 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:18:32,239  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 19:18:32,243  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 19:18:36,160  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 19:18:36,164  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 19:19:27,943 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:19:27,947 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:19:27,955 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:19:27,959 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:19:27,963 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:19:28,563 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:19:28,567 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:19:28,571 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:19:28,571 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:19:28,575 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:20:18,832  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 19:20:18,836  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 19:25:30,385  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 19:25:30,392  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 19:28:03,530  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 19:28:03,537  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 19:29:56,112  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 19:29:56,118  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 19:30:01,823  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 19:30:01,824  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 19:30:26,921  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 19:30:26,927  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 19:30:37,035  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 19:30:37,037  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 19:30:38,688  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 19:30:38,689  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 19:30:41,753  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 19:30:41,754  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 19:30:53,818 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:30:53,821 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:30:53,846 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:30:53,850 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:30:53,856 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:30:55,513 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:30:55,517 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:30:55,523 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:30:55,526 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:30:55,528 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:34:23,670  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 19:34:23,676  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 19:34:43,067 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:34:43,083 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:34:43,083 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:34:43,083 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:34:43,099 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:34:43,708 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:34:43,708 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:34:43,724 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:34:43,724 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:34:43,724 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:35:22,303  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 19:35:22,307  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 19:35:30,466  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 19:35:30,466  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 19:35:33,295  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 19:35:33,296  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 19:38:46,559  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 19:38:46,564  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 19:38:55,355  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 19:38:55,356  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 19:38:58,565  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 19:38:58,566  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 19:39:15,902  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 19:39:15,902  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 19:39:26,003  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 19:39:26,004  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 19:39:26,781  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 19:39:26,781  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 19:39:29,867  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 19:39:29,867  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 19:39:39,882 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:39:39,885 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:39:39,894 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:39:39,900 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:39:39,902 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:39:40,572 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:39:40,573 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:39:40,574 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:39:40,575 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:39:40,575 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:42:54,848  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 19:42:54,853  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 19:43:03,799  INFO [main] LogReport:32 - Next page title: Search Results
+2019-09-13 19:43:03,799  INFO [main] LogReport:32 - Checkin date not working properly
+2019-09-13 19:43:06,887  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 19:43:06,888  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 19:43:21,450  INFO [main] LogReport:32 - The total amount in booking option page: USD $300
+2019-09-13 19:43:21,450  INFO [main] LogReport:32 - The total amount is validate succesfully
+2019-09-13 19:43:30,806  INFO [main] LogReport:32 - Total amount after adding extra: 1628
+2019-09-13 19:43:30,806  INFO [main] LogReport:32 - After adding extras total amount is validate Successfully
+2019-09-13 19:43:31,505  INFO [main] LogReport:32 - Tour name is: Old and New Delhi City Tour
+2019-09-13 19:43:31,506  INFO [main] LogReport:32 - Tour name is validate Successfully
+2019-09-13 19:43:34,580  INFO [main] LogReport:32 - Total amount before adding extra: 330
+2019-09-13 19:43:34,581  INFO [main] LogReport:32 - Before adding extras total amount is validate Successfully
+2019-09-13 19:43:42,461  INFO [main] LogReport:32 - Invoice validate Successfully
+2019-09-13 19:43:42,827 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:43:42,827 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:43:42,827 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:43:42,843 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:43:42,843 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:43:43,269 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:43:43,269 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:43:43,269 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:43:43,269 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:43:43,269 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:46:29,153  INFO [main] LogReport:32 - Home page title: PHPTRAVELS | Travel Technology Partner
+2019-09-13 19:46:29,153  INFO [main] LogReport:32 - Home page URL verified successfully
+2019-09-13 19:46:33,617  INFO [main] LogReport:32 - city validate data=No matches found
+2019-09-13 19:46:33,617  INFO [main] LogReport:32 - city input validation passed
+2019-09-13 19:47:38,898 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:47:38,898 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:47:38,898 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:47:38,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:47:38,914 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-13 19:47:39,244 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-13 19:47:39,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-13 19:47:39,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-13 19:47:39,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-13 19:47:39,244 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

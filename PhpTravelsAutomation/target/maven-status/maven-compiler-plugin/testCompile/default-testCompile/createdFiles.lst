@@ -1,0 +1,4 @@
+com\atmecs\phptravels\testscripts\BookingOptionTestScript.class
+com\atmecs\phptravels\testscripts\InvoicePageTest.class
+com\atmecs\phptravels\testscripts\BookingSummaryPageTest.class
+com\atmecs\phptravels\testscripts\HomePageTestScript.class

@@ -5,7 +5,12 @@ import org.apache.log4j.PropertyConfigurator;
 
 import com.atmecs.phptravelsautomation.constants.FilePath;
 
-
+/**
+ * 
+ * @author arjun.santra
+ * This class give the log report of testscripts
+ *
+ */
 public class LogReport {
 	Logger logger = null;
 

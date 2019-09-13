@@ -4,14 +4,17 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.Iterator;
 
+import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import com.atmecs.phptravelsautomation.constants.FilePath;
 public class ReadExcelFile {
-	XSSFWorkbook workbook;
-	XSSFSheet sheet1;
+	static FileInputStream fis = null;
+	static XSSFWorkbook workbook = null;
+	static XSSFSheet worksheet = null;
 
 	/**
 	 * 
@@ -19,48 +22,53 @@ public class ReadExcelFile {
 	 *                 file and initializes the workbook
 	 */
 
-	public ReadExcelFile(String filePath) {
+	public ReadExcelFile(String filepath,int sheetindex) {
 		try {
-			File file = new File(filePath);
-			FileInputStream fileInput = new FileInputStream(file);
-			try {
-				workbook = new XSSFWorkbook(fileInput);
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-
+			fis = new FileInputStream(new File(filepath));
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
+			System.out.println("Sorry! File not Found.");
 			e.printStackTrace();
 		}
+		// Class used to read excel file and read the data
+		try {
+			workbook = new XSSFWorkbook(fis);
+
+		} catch (IOException e) {
+			System.out.println("File path not found");
+			e.printStackTrace();
+		}
+		worksheet = workbook.getSheetAt(sheetindex);
 	}
 
-	public String getData(int index, int rowNum, int cellNum) {
+	/*
+	 * In this method i'm reading excel file using dependency of apache-poi
+	 */
 
-		sheet1 = workbook.getSheetAt(index);
-		String data = sheet1.getRow(rowNum).getCell(cellNum).getStringCellValue();
-		
-		return data;
+	public Iterator<Row> getData() throws IOException {
+
+		// iterating through rows and getting row number
+		Iterator<Row> rows = worksheet.iterator();
+		return rows;
 	}
-	public   int totalRowsinSheet(int sheet) {
-		int rowCount = workbook.getSheetAt(sheet).getLastRowNum();
-		//System.out.println("rowCount::"+rowCount);
-		return rowCount;
+
+	public int getNoOfRows() {
+		int rowIndex = worksheet.getLastRowNum();
+
+		return rowIndex + 1;
 	}
-	
-	public int totalColsinSheet(int sheetIndex,int rowCount) {
-		int colCount = workbook.getSheetAt(sheetIndex).getRow(rowCount).getLastCellNum();
-		
-		return colCount;
+
+	public int getNoOfColumns() {
+		Iterator<Row> rowIterator = worksheet.rowIterator();
+		int columnIndex = 0;
+		/**
+		 * Escape the header row *
+		 */
+		if (rowIterator.hasNext()) {
+			Row headerRow = rowIterator.next();
+			// get the number of cells in the header row
+			columnIndex = headerRow.getPhysicalNumberOfCells();
+		}
+		return columnIndex;
 	}
-	/*public static void main(String[] args) {
-		ReadExcelFile ref= new ReadExcelFile(FilePath.ORANGEHRM_TEST_FILE);
-		
-		ref.totalRowsinSheet(0);
-		System.out.println("total cols in rows "+ref.totalColsinSheet(0,1));
-         System.out.println("Data in row is"+ref.getData(0, 1, 0));
-		
-	}*/
 
 }

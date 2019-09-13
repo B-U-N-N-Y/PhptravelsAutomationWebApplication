@@ -2,6 +2,12 @@ package com.atmecs.phptravelsautomation.constants;
 
 import java.io.File;
 
+/**
+ * 
+ * @author arjun.santra This Class contails all filepaths
+ *
+ */
+
 public class FilePath {
 	
 	public final static String USER_HOME= System.getProperty("user.dir")+File.separator;
@@ -21,10 +27,11 @@ public class FilePath {
 	public final static String JIRA_CONFIG= USER_HOME+"jiraConfig.properties";
 	public final static String LOG4J_FILE= RESOURCES_HOME+"log4j"+File.separator+"log4j.properties";
 	public final static String LOCATOR_FILE= LOCATOR_HOME+"phptravelslocators.properties";
-	public final static String TESTDATA_FILE= RESOURCES_HOME+"testdata"+File.separator+"toolsshoptestdata.xlsx";
+	public final static String VALIDATION_FILE= RESOURCES_HOME+"testdata"+File.separator+"validatedata.properties";
+	public final static String TESTDATA_FILE= RESOURCES_HOME+"testdata"+File.separator+"phptravelstestdata.xlsx";
     public final static String PRODUCT_TESTDATA=RESOURCES_HOME+"testdata"+File.separator+"productpageTestData.xlsx";
     
-	public static void main(String[] args) {
-		System.out.println(LOG4J_FILE);
-	}
+//	public static void main(String[] args) {
+//		System.out.println(LOG4J_FILE);
+//	}
 }
