@@ -22,8 +22,6 @@ public class InvoicePageTest extends TestBase {
 			CommonUtility.clickElement(loc.getlocator("loc.payonarrival.btn"));
 			CommonUtility.clickElement(loc.getlocator("loc.payonarrival.btn"));
 		}
-
-		//CommonUtility.scrollDownPage(200);
 		InvoicePage.invoicevalidation(loc, validatedata,driver);
 	}
 

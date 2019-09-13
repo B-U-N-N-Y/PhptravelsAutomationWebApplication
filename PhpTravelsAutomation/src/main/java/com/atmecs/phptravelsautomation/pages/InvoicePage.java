@@ -20,9 +20,15 @@ public class InvoicePage {
 
 	public static void invoicevalidation(FindLocators loc, FindValidateData validate, WebDriver driver) {
 
+		try {
+			Thread.sleep(3000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		Alert alert = driver.switchTo().alert();
 		alert.accept();
-		CommonUtility.scrollDownPage(100);
+		CommonUtility.scrollDownPage(600);
 
 		Assert.assertEquals(CommonUtility.getText(loc.getlocator("loc.customerdetails.name.txt")),
 				validate.getData("invoice.customerdetails_name_data"), "customer name is mismatch");

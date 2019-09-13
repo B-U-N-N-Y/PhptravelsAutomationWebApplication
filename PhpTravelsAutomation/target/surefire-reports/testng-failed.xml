@@ -8,6 +8,8 @@
     <classes>
       <class name="com.atmecs.phptravels.testscripts.HomePageTestScript">
         <methods>
+          <include name="cityInputValidation"/>
+          <include name="processEnd"/>
           <include name="tourSearch" invocation-numbers="0"/>
           <include name="intitailizeBrowser"/>
         </methods>
